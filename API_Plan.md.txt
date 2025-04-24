@@ -1,0 +1,12 @@
+# API Strategy
+
+Using OpenWeatherMap's API to fetch weather data in JSON.
+
+**Sample Request:** https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&units=metric
+
+
+**Key Parameters:**
+- `q` = City name  
+- `appid` = Your API key  
+- `units=metric` → temp in Celsius  
+
